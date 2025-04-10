@@ -1,0 +1,53 @@
+Medaboina Bhargavi – Evolution of LLMs
+	Write detailed notes on:
+		RNNs and LSTMs basics
+
+		Why Transformers replaced them
+
+		Key milestones in LLM evolution
+
+	Include: diagrams, brief comparisons, Strengths/weaknesses
+
+
+Meghana -  "GPT-3 Summary"
+	Discuss:
+
+		GPT-3’s architecture (175B parameters)
+
+		Training method & datasets
+
+		What it does well vs limitations (e.g., lacks true 			understanding)
+
+	Add: 2-3 use cases like code generation, writing, Q&A
+
+
+Akshitha - “Attention is All You Need” Paper
+	Deep dive into:
+		Self-attention mechanism
+		Positional encoding
+		Benefits of transformer architecture
+		Scaling laws (if time permits)
+	Include: flow diagrams of transformer model, equations
+
+
+Prasad - "Challenges + Ethical Concerns"
+	Cover:
+
+		Training challenges: memory, compute, data scale
+
+		Risks: misinformation, fake news, AI overuse
+
+		Mention future needs: regulations, ethics, better 		evaluation
+
+	Include recent examples if possible (like ChatGPT misuse)
+
+Haleema -  Research Environment Setup
+	Responsible for:
+
+		Writing instructions for setting up Jupyter Notebook 		locally or on Colab
+
+		plaining basic Git usage for team collaboration
+
+		overleaf setup guide for collaborative editing
+
+	utput: A markdown file or PDF describing all steps with 	Screenshots
