@@ -5,7 +5,7 @@ This repository contains a collaborative report prepared by our team on the **te
 ---
 
 ## 📁 Folder Structure
-📂 llm-report/ │ ├── 📄 README.md ├── 📄 LICENSE (optional) ├── 📂 reports/ │ ├── prasad_challenges_ethics.md │ ├── bhargavi_evolution_llms.md │ ├── meghana_gpt3_summary.md │ ├── akshitha_transformer_paper.md │ └── haleema_env_setup.md ├── 📂 final/ │ └── combined_report.pdf └── 📂 assets/ └── diagrams, screenshots, etc.
+llm-report/ │ ├── README.md ├── LICENSE (optional) ├── reports/ │ ├── prasad_challenges_ethics.md │ ├── bhargavi_evolution_llms.md │ ├── meghana_gpt3_summary.md │ ├── akshitha_transformer_paper.md │ └── haleema_env_setup.md │ ├── final/ │ └── combined_report.pdf │ └── assets/ └── (diagrams, screenshots, reference images)
 
 ---
 
